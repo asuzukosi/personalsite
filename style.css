@@ -1,0 +1,116 @@
+body {
+  background-color: #c9d1d3 ;
+  text-align: center;
+  margin: 0;
+  margin-top: 0;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;;
+  color: #11999E;
+
+}
+a{
+  color: #11999E;
+  text-decoration: none;
+}
+hr{
+  margin: 30px auto;
+  width: 200px;
+}
+
+/***********CLASS SELECTORS*************/
+.pro{
+  text-decoration: underline;
+}
+.top{
+  height: 330px;
+  position: relative;
+  padding: 50px;
+  background-color:#758184;
+}
+.upper-cloud{
+  position: absolute;
+
+  right: 540px;
+}
+.lower-cloud{
+  position: absolute;
+  bottom: 100px;
+  left: 550px;
+}
+.mountain{
+  position: absolute;
+  bottom: 0;
+  right: 39%;
+}
+.text{
+  position: relative;
+  top: 40px;
+  font-size: 1.75rem;
+  line-height: 2;
+
+}
+.round{
+  margin-top: 10px;
+  border-radius: 50%;
+}
+.desc{
+  width: 30%;
+  margin: 0 auto;
+  line-height: 2;
+}
+.programmer{
+  position: relative;
+  top: -70px;
+  font-size: 1.3rem;
+  color: white;
+
+}
+.side{
+  width: 200px;
+  border-radius: 50%;
+  float: left;
+  padding-right: 30px;
+
+}
+.box{
+  height: 220px;
+  width: 50%;
+  margin: 0 auto;
+}
+.skill{
+  text-align: left;
+  padding-top: 80px;
+  padding-left: 20px;
+  width: 80%;
+}
+.bottom{
+  background-color: #66BFBF;
+  height: 100px;
+}
+.button{
+  background-color: #00909e;
+  color:white;
+  border-radius: 40%;
+  text-decoration: none;
+  padding: 10px;
+}
+.links{
+  margin-top: 20px;
+  padding-top: 30px;
+}
+.copy{
+  color:white;
+}
